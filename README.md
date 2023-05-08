@@ -16,6 +16,6 @@ My name is Aditya Narayan Jaiswal, and I am a skilled MERN Stack with a of exper
 
 ## Contact Me
 
-I am currently available for new opportunities, so feel free to reach out to me at nlaxmi886@gmail.com or connect with me on [LinkedIn https://www.linkedin.com/in/aditya-narayan-jaiswal-3953a4208/]().
+I am currently available for new opportunities, so feel free to reach out to me at nlaxmi886@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-narayan-jaiswal-3953a4208/).
 
 Thank you for taking the time to go through my portfolio!
