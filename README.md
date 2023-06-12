@@ -17,8 +17,8 @@ This is a simple portfolio project that showcases your work, skills, and experie
 
 ### Getting Started
 
-1. Clone the repository: `git clone repository-url>`
-2. Navigate to the project directory: `cd simple-portfolio-project`
+1. Clone the repository: `git clone https://github.com/AdityaNarayan05/AdityaTech.git`
+2. Navigate to the project directory: `cd AdityaTech`
 3. Open the `index.html` file in your preferred web browser.
 
 ### Customization
