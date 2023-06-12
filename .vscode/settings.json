@@ -12,6 +12,9 @@
         "contwidth",
         "cpink",
         "cwhite",
+        "disinbl",
+        "disnon",
+        "divd",
         "dotposition",
         "Edunet",
         "fmail",
@@ -37,8 +40,11 @@
         "slideanim",
         "tebold",
         "tecenter",
+        "tejustify",
         "teupper",
+        "tooltiptext",
         "validateform",
+        "vishid",
         "wholebody",
         "ziplink"
     ]
