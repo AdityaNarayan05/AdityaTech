@@ -1,7 +1,7 @@
 // Service Worker
 
 // Cache version
-const CACHE_VERSION = 'v1';
+const CACHE_VERSION = 'v2';
 const CACHE_NAME = `${CACHE_VERSION}_static_cache`;
 
 // Files to cache
