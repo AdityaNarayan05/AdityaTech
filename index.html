@@ -387,6 +387,18 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
     <script src="JS/profile.js"></script> 
     <script src="JS/form.js"></script>
-    <script src="JS/register.js"></script>
+    <script>
+        if ("serviceWorker" in navigator) {
+            window.addEventListener("load", () => {
+                navigator.serviceWorker.register("JS/service-worker.js")
+                .then((registration) => {
+                    console.log("Service Worker registered");
+                    )
+                .catch((error) => {
+                    console.log("Service Worker registration failed:", error);
+                });
+            });
+        }          
+    </script>
 </body>
 </html>

@@ -10,6 +10,7 @@ const filesToCache = [
   'CSS/compressed stylesheet.css',
   'Assets/Aditya3.avif',
   'Assets/Aditya2.avif',
+  '/splash.avif',
   // Add more files to cache here
 ];
 
