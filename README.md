@@ -44,3 +44,5 @@ To deploy the portfolio project and make it accessible on the web, follow these 
 I am currently available for new opportunities, so feel free to reach out to me at [nlaxmi886@gmail.com](mailto:nlaxmi886@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/aditya-narayan-jaiswal-3953a4208/).
 
 Thank you for taking the time to go through my portfolio!
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/dd6ffdda-f307-424f-bbcf-f36a68d01918/deploy-status)](https://app.netlify.com/sites/adityanarayanjaiswal/deploys)
