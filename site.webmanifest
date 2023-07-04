@@ -6,15 +6,27 @@
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#da532c",
+  "splash_pages": [
+    {
+      "src": "splash.avif",
+      "sizes": "600x600",
+      "type": "image/avif"
+    }
+  ],
   "icons": [
+    {
+      "src": "/android-chrome-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
     {
       "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/android-chrome-256x256.png",
-      "sizes": "256x256",
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
       "type": "image/png"
     },
     {
@@ -26,18 +38,6 @@
       "src": "/favicon-16x16.png",
       "sizes": "16x16",
       "type": "image/png"
-    },
-    {
-      "src": "/apple-touch-icon.png",
-      "sizes": "180x180",
-      "type": "image/png"
-    }
-  ],
-  "splash_pages": [
-    {
-      "src": "splash.avif",
-      "sizes": "600x600",
-      "type": "image/avif"
     }
   ],
   "related_applications": [],
